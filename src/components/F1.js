@@ -6,7 +6,7 @@ function F1(){
 }
 export function Home()
 {
-return <div class="vas"><p>Valluru Sai Manikanta Revanth, I am an enthusiastic and dedicated individual committed to continuous personal and professional growth. With a passion for Developer, I strive to create meaningful and impactful work. My self-portfolio is a reflection of my journey, showcasing my skills, experiences, and creative endeavors.</p></div>
+return <div class="vas"><p>Habeeb Ur Rahman, I am an enthusiastic and dedicated individual committed to continuous personal and professional growth. With a passion for Developer, I strive to create meaningful and impactful work. My self-portfolio is a reflection of my journey, showcasing my skills, experiences, and creative endeavors.</p></div>
 }
 
 
