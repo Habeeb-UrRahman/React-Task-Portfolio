@@ -4,7 +4,7 @@ import './style.css';
 
 function LandingPage() {
     const [text, setText] = useState("");
-    const originalText = "Web Developer";
+    const originalText = "AI/ML Enthusiast";
 
     useEffect(() => {
     let currentIndex = 0;
@@ -36,7 +36,7 @@ function LandingPage() {
 
     return (
     <div className="vas">
-        <h1>HI!, I'm Revanth</h1>
+        <h1>HI!, I'm Habeeb Ur Rahman</h1>
         <h3>I'm a {text}</h3>
     </div>
     );
